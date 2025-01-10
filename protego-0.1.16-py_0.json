@@ -1,0 +1,51 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python",
+    "six"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\protego-0.1.16-py_0",
+  "files": [
+    "Lib/site-packages/Protego-0.1.16.dist-info/INSTALLER",
+    "Lib/site-packages/Protego-0.1.16.dist-info/LICENSE",
+    "Lib/site-packages/Protego-0.1.16.dist-info/METADATA",
+    "Lib/site-packages/Protego-0.1.16.dist-info/RECORD",
+    "Lib/site-packages/Protego-0.1.16.dist-info/REQUESTED",
+    "Lib/site-packages/Protego-0.1.16.dist-info/WHEEL",
+    "Lib/site-packages/Protego-0.1.16.dist-info/direct_url.json",
+    "Lib/site-packages/Protego-0.1.16.dist-info/top_level.txt",
+    "Lib/site-packages/protego.py",
+    ".nonadmin",
+    "Lib/site-packages/__pycache__/protego.cpython-312.pyc"
+  ],
+  "fn": "protego-0.1.16-py_0.conda",
+  "license": "BSD 3-Clauses",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\protego-0.1.16-py_0",
+    "type": 1
+  },
+  "md5": "3a7af48c4b26dfd015c277fc68251f81",
+  "name": "protego",
+  "noarch": "python",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\protego-0.1.16-py_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/protego.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/noarch::protego==0.1.16=py_0[md5=3a7af48c4b26dfd015c277fc68251f81]",
+  "sha256": "5ab2fa114bcf3baa83b246e7455033466f9d8b1813a71a06d28199c1f68f633f",
+  "size": 2312936,
+  "subdir": "noarch",
+  "timestamp": 1598657213000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/protego-0.1.16-py_0.conda",
+  "version": "0.1.16"
+}
